@@ -2,4 +2,4 @@
 
 my blog web
 
-## [click](czyoh.cn)
+## [click](https://czyoh.cn)
